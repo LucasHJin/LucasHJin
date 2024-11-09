@@ -1,9 +1,9 @@
 # Hello, World! I'm Lucas 👋
 
 ## About Me
-- Software team lead of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca)) (org: Spark Youth Robotics Club)
-- Other than coding, I love working out💪 (Check out [Zenith App](https://github.com/kblazer20/Zenith-App)!)
-- Currently trying to improve at Competitive Programming ⌨️ (Check out my [AtCoder](https://atcoder.jp/users/lsun48))
+- Software team lead of First Robotics Competition Team 8729 [Sparkling H2O](https://syrc.ca) and MHS Vex Robotics
+- Other than coding, I love working out💪 (Currently working on a secret workout web app!! - To Be Released ~ Jan 2025)
+- Trying to improve at Competitive Programming ⌨️ (Check out my [AtCoder](https://atcoder.jp/users/lsun48))
 
 ## How to reach me:
 <a href="https://www.linkedin.com/in/lucas--jin/" target="_blank">

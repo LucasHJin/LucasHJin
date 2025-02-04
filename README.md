@@ -2,7 +2,7 @@
 
 ## About Me
 - Software team lead of First Robotics Competition Team 8729 [Sparkling H2O](https://syrc.ca) and MHS Vex Robotics
-- Other than coding, I love working out💪 (Currently working on a secret workout web app!! - To Be Released ~ Jan 2025)
+- Other than coding, I love working out💪 (Currently working on a secret workout web app!! - To Be Released ~ June 2025)
 - Trying to improve at Competitive Programming ⌨️ (Check out my [AtCoder](https://atcoder.jp/users/lsun48))
 
 ## How to reach me:

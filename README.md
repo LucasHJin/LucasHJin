@@ -6,11 +6,11 @@
 - Fun fact: I can bench 250 💪
 
 ## Links:
-<a href="https://www.linkedin.com/in/lucas--jin/" target="_blank">Linkedin</a> |
+<a href="https://www.linkedin.com/in/lucas--jin/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
 <a href="mailto:lucasjin.hh@gmail.com">Gmail</a> |
-<a href="https://www.lucasjin.biz/" target="_blank">Personal website</a>
+<a href="https://www.lucasjin.biz/" target="_blank" rel="noopener noreferrer">Personal website</a>
 
 ## Stats:
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasHJin" title="GitHubStatus" alt="GitHubStats" height="150"/>&nbsp;
-</div>
+![LucasHJin's Stats](https://github-readme-stats.vercel.app/api?username=LucasHJin&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![LucasHJin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasHJin&theme=dark&hide_border=false)

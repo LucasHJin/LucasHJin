@@ -3,7 +3,6 @@
 ## About Me
 - Software team lead of First Robotics Competition Team 8729 [Sparkling H2O](https://syrc.ca) and MHS Vex Robotics
 - Interested in developing software applications with real-world impacts (<3 hackathons)
-- Fun fact: I can bench 250 💪
 
 ## Links:
 <a href="https://www.linkedin.com/in/lucas--jin/" target="_blank" rel="noopener noreferrer">Linkedin</a> |

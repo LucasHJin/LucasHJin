@@ -1,8 +1,10 @@
 # Hi! I'm Lucas.
 
-## About Me
-- Software team lead of First Robotics Competition Team 8729 [Sparkling H2O](https://syrc.ca) and MHS Vex Robotics
+## TLDR
+- CS @ UWaterloo
+- Recently released an [Obsidian plugin](https://obsidian.md/plugins?id=pixel-pets) with 300+ downloads in <1 week
 - Interested in developing software applications with real-world impacts (<3 hackathons)
+- Former software lead for FRC 8729 and MHS Vex Robotics
 
 ## Links:
 <a href="https://www.linkedin.com/in/lucas--jin/" target="_blank" rel="noopener noreferrer">Linkedin</a> |

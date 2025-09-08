@@ -2,7 +2,7 @@
 
 ## TLDR
 - CS @ UWaterloo
-- Recently released an [Obsidian plugin](https://obsidian.md/plugins?id=pixel-pets) with 300+ downloads in <1 week
+- Recently released an [Obsidian plugin](https://obsidian.md/plugins?id=pixel-pets) with 800+ downloads
 - Interested in developing software applications with real-world impacts (<3 hackathons)
 - Former software lead for FRC 8729 and MHS Vex Robotics
 

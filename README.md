@@ -2,8 +2,8 @@
 
 ## TLDR
 - CS @ UWaterloo
-- MLE @ WAT.ai FlockRL Subteam, SW Team Lead @ Biomechatronics Design Team
-- Recently released an [Obsidian plugin](https://obsidian.md/plugins?id=pixel-pets) with 1300+ downloads
+- MLE @ WAT.ai FlockRL Subteam, CSC Web Committee
+- Recently released an [Obsidian plugin](https://obsidian.md/plugins?id=pixel-pets) with 1900+ downloads
 - Interested in developing software applications with real-world impacts (<3 hackathons)
 
 ## Links:

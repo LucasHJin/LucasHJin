@@ -6,4 +6,4 @@ hi i'm lucas :)
   - [git for video editing](https://vit-editor.vercel.app/)
   - [video to ascii react component](https://www.npmjs.com/package/react-video-ascii)
   - [obsidian plugin](https://obsidian.md/plugins?id=pixel-pets)
-- i also like lifting and meeting new ppl <3
+- i also rly like bodybuilding

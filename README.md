@@ -7,3 +7,5 @@ heyo i'm lucas :)
   - [video to ascii react component](https://www.npmjs.com/package/react-video-ascii)
   - [obsidian plugin](https://obsidian.md/plugins?id=pixel-pets)
 - i also rly like bodybuilding & sbl
+
+![](https://komarev.com/ghpvc/?username=lucashjin)
